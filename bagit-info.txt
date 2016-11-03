@@ -1,0 +1,7 @@
+Source-Organization: Tauranga City Library
+Organization-Address: 91 Willow St, Tauranga 3110, New Zealand
+Contact-Phone: +64.7.5777177
+Contact-Email: library@tauranga.govt.nz
+External-Description: Hui at Huria Marae
+External-Identifier: 682b8dc3-1c9b-4752-96f4-97545f91be18
+

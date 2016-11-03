@@ -1,0 +1,37 @@
+{
+    "@context":  [
+        "https://w3id.org/bundle/context"
+    ],
+    "id": "/",
+    "manifest":  "manifest.json",
+    "createdOn": "2013-02-12T19:37:32.939Z",
+    "createdBy": {
+        "uri":     "http://example.com/foaf#alice",
+        "orcid":   "http://orcid.org/0000-0000-0000-0000",
+        "name":    "Alice W. Land" },
+    "history":   "evolution.ttl",
+    "aggregates": [
+
+       "__comment__": "paths are mapped to a uri using app:// scheme using the archive uuid as the authority thus /folder/soap.jpeg becomes app://254ed202-3829-11e6-93b6-20c9d0cf0021/folder/soup.jpeg",
+
+       { "uri":  "/folder/soup.jpeg" },
+       { "uri":  "http://example.com/blog/" },
+       { "uri":      "/README.txt",
+         "mediatype": "text/plain",
+         "createdBy": {
+             "uri":     "http://example.com/foaf#bob",
+             "name":    "Bob Builder" },
+         "createdOn": "2013-02-12T19:37:32.939Z" },
+       { "uri":    "http://example.com/comments.txt",
+         "bundledAs": {
+            "uri":    "urn:uuid:a0cf8616-bee4-4a71-b21e-c60e6499a644",
+            "folder":   "/folder/",
+            "filename": "external.txt" }
+       }
+    ],
+    "annotations": [
+      { "uri":     "urn:uuid:d67466b4-3aeb-4855-8203-90febe71abdf",
+        "about":   "/folder/soup.jpeg",
+        "content": "annotations/soup-properties.ttl" }
+    ]
+}
