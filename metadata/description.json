@@ -1,0 +1,370 @@
+{
+  "@context": "http://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "name": "Hui at Huria Marae",
+      "url": "https://toha.io/ark:/1234/682b8dc3-1c9b-4752-96f4-97545f91be18",
+      "potentialAction": {
+        "@type": "ViewAction",
+        "target": [
+          "https://toha.io/ark:/1234/682b8dc3-1c9b-4752-96f4-97545f91be18",
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://toha.io/ark:/1234/682b8dc3-1c9b-4752-96f4-97545f91be18",
+            "contentType": "application/json+ld"
+          }
+        ]
+      },
+      "relatedLink": "https://toha.io/collection/giffordcross",
+      "primaryImageOfPage": {
+        "contentUrl": "image/682b8dc3-1c9b-4752-96f4-97545f91be18.web.large.jpg"
+      },
+      "isFamilyFriendly": true,
+      "accessibilityControl": [
+        "fullKeyboardControl",
+        "fullMouseControl"
+      ],
+      "accessibilityFeature": [
+        "largePrint/CSSEnabled",
+        "highContrast/CSSEnabled",
+        "resizeText/CSSEnabled",
+        "displayTransformability",
+        "longDescription",
+        "alternativeText"
+      ],
+      "accessibilityHazard": [
+        "noFlashingHazard",
+        "noMotionSimulationHazard",
+        "noSoundHazard"
+      ],
+      "copyrightYear": "2016",
+      "copyrightHolder": [
+        {
+          "@type": "Organization",
+          "name": "Tauranga City Library"
+        },
+        {
+          "@type": "Person",
+          "name": "Steve Holden"
+        }
+      ],
+      "licence": {
+        "@type": "Licence",
+        "@id": "CC-BY-NC-ND-3.0-NZ",
+        "name": "Creative Commons Attribution Non Commercial No Derivatives 3.0 New Zealand",
+        "description": "Text content on this page is licensed under a Creative Creative Commons Attribution Non Commercial No Derivatives 3.0 New Zealand licence / Copyright Tauranga City Library.",
+        "disambiguatingDescription": [
+          "Tauranga City Library does not own the copyright in all the material featured on this website. In some cases copyright belongs to third parties and has been published here under a licence agreement: this does not authorise you to copy that material. You may be required to obtain permission from the copyright owner.",
+          "Some unpublished material may require permission for reuse even if it is very old. Orphan works, where the copyright owner is unknown,also require permission for reuse. Indigenous works may have additional legal and cultural issues. You may be required to seek cultural clearances from Māori, Pacific Island or other ethnic communities, families, individuals or organisations before you may reproduce any material."
+        ],
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/nz/",
+        "reuse": true,
+        "icons": [
+          "toha-icons:creative-commons",
+          "toha-icons:cc-attribution",
+          "toha-icons:cc-noncommercial",
+          "toha-icons:cc-noderivatives"
+        ],
+        "NonCommercialOpen": false,
+        "Open": true
+      },
+      "mainEntity": {
+        "@type": "Photograph",
+        "@id": "urn:uuid:682b8dc3-1c9b-4752-96f4-97545f91be18",
+        "name": "Hui at Huria Marae",
+        "description": "Hui at Huria Marae.",
+        "text": "Hare Piahana, chairman of the Tauranga Tribal Committee addressing a gathering of Bay of Plenty and Waikato guests at Huria Marae.  Seated at centre is Turi Te Kani.",
+        "disambiguatingDescription": null,
+        "dateModified": "2015-12-01T00:08:00Z",
+        "dateCreated": "1962-04-14",
+        "contentLocation": {
+          "@type": "Place",
+          "name": "Judea, Tauranga, Bay of Plenty, New Zealand"
+        },
+        "keywords": [
+          "People",
+          "Ngāti Ranginui",
+          "Whare tipuna",
+          "Huria",
+          "Tamatea Pokaiwhenua",
+          "Ngāi Tamarāwaho"
+        ],
+        "medium": "Negative",
+        "dimensions": "102 mm (Length), 127 mm (Width)",
+        "isPartOf": {
+          "@type": "Collection",
+          "name": "Gifford-Cross Photographic Collection",
+          "discipline": "Ethnohistory",
+          "subjectArea": [
+            "Bay of Plenty",
+            "Politics and Society"
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "@id": "BayOfPlentyTimes",
+            "name": "Bay of Plenty Times"
+          }
+        },
+        "culturalGroups": [
+          "Ngāti Ranginui"
+        ],
+        "categories": [
+          "Māori Collections"
+        ],
+        "creator": [
+          {
+            "@type": "Person",
+            "name": "John Holden",
+            "jobTitle": "Photographer"
+          }
+        ],
+        "sourceOrganization": [
+          {
+            "@type": "Organization",
+            "name": "Bay of Plenty Times"
+          }
+        ],
+        "copyrightYear": "1962",
+        "copyrightHolder": [
+          {
+            "@type": "Organization",
+            "name": "Bay of Plenty Times"
+          }
+        ],
+        "licence": {
+          "@type": "Licence",
+          "@id": "AllRightsReserved",
+          "name": "All Rights Reserved",
+          "credit": "Negative donated by the Gifford and Cross Families",
+          "description": "Copyright Bay of Plenty Times / All Rights Reserved",
+          "url": "",
+          "reuse": false,
+          "icons": [],
+          "NonCommercialOpen": false,
+          "Open": false
+        },
+        "workExample": [
+          {
+            "@type": "Photograph",
+            "description": "Black and white negative 5x4 inch",
+            "displayed": false,
+            "storedLocation": null
+          }
+        ],
+        "associatedMedia": [
+          {
+            "@type": "ImageObject",
+            "caption": "Hui at Huria Marae.",
+            "copyrightYear": "1962",
+            "copyrightHolder": [
+              {
+                "@type": "Organization",
+                "@id": "TaurangaLibrary",
+                "name": "TaurangaLibrary"
+              },
+              {
+                "@type": "Organization",
+                "name": "Bay of Plenty Times"
+              }
+            ],
+            "licence": {
+              "@type": "Licence",
+              "@id": "AllRightsReserved",
+              "name": "All Rights Reserved",
+              "description": "Copyright Bay of Plenty Times and Tauranga City Library / All Rights Reserved / Reuse  Requires Cultural Clearances",
+              "url": "",
+              "reuse": false,
+              "icons": [],
+              "NonCommercialOpen": false,
+              "Open": false
+            },
+            "large": {
+              "@type": "ImageObject",
+              "contentUrl": "image/682b8dc3-1c9b-4752-96f4-97545f91be18.web.large.jpg",
+              "encodingFormat": "jpg",
+              "fileFormat": "image/jpeg",
+              "width": 790,
+              "height": 782,
+              "Size": 410000,
+              "SizeCaption": "410KB"
+            },
+            "medium": {
+              "@type": "ImageObject",
+              "contentUrl": "image/682b8dc3-1c9b-4752-96f4-97545f91be18.web.large.jpg",
+              "encodingFormat": "jpg",
+              "fileFormat": "image/jpeg",
+              "width": 790,
+              "height": 782,
+              "Size": 410000,
+              "SizeCaption": "410KB"
+            },
+            "small": {
+              "@type": "ImageObject",
+              "contentUrl": "image/682b8dc3-1c9b-4752-96f4-97545f91be18.web.small.jpg",
+              "encodingFormat": "jpg",
+              "fileFormat": "image/jpeg",
+              "width": 270,
+              "height": 190,
+              "Size": 49000,
+              "SizeCaption": "49KB"
+            },
+            "thumbnail": {
+              "@type": "ImageObject",
+              "contentUrl": "image/682b8dc3-1c9b-4752-96f4-97545f91be18.web.small.jpg",
+              "encodingFormat": "jpg",
+              "fileFormat": "image/jpeg",
+              "width": 270,
+              "height": 190,
+              "Size": 49000,
+              "SizeCaption": "49KB"
+            },
+            "original": null,
+            "tiled": null
+          },
+          {
+            "@type": "MetadataDocument",
+            "dateCreated": "2016-07-14T00:08:00Z",
+            "datePublished": "2016-07-14T00:08:00Z",
+            "dateModified": "2016-07-14T00:08:00Z",
+            "creator": [
+              {
+                "@type": "Person",
+                "name": "Harley Couper",
+                "image": "images/profile1.jpg",
+                "jobTitle": "Information Librarian"
+              },
+              {
+                "@type": "Person",
+                "name": "Debbie McCauley",
+                "image": "images/profile2.jpg",
+                "jobTitle": "Information Librarian",
+                "organization": {
+                  "@type": "Organization",
+                  "@id": "TaurangaLibrary",
+                  "name": "Tauranga Library"
+                }
+              }
+            ],
+            "sourceOrganization": [
+              {
+                "@type": "Organization",
+                "@id": "TaurangaLibrary",
+                "name": "Tauranga Library"
+              }
+            ],
+            "copyrightYear": "2016",
+            "copyrightHolder": {
+              "@type": "Organization",
+              "@id": "TaurangaLibrary",
+              "name": "TaurangaLibrary"
+            },
+            "licence": {
+              "@type": "Licence",
+              "@id": "CC-BY-3.0-NZ",
+              "name": "Creative Commons Attribution 3.0 New Zealand",
+              "description": "Metadata text on this page is licensed under Creative Commons Attribution 3.0 New Zealand licence / Copyright Tauranga City Library. Refer to the image Licence above for Image reuse.",
+              "disambiguatingDescription": [
+                "We support the open release of data and information about our collections."
+              ],
+              "url": "https://creativecommons.org/licenses/by/3.0/nz/",
+              "reuse": true,
+              "icons": [
+                "toha-icons:creative-commons",
+                "toha-icons:cc-attribution"
+              ],
+              "NonCommercialOpen": true,
+              "Open": true
+            }
+          }
+        ]
+      },
+      "associatedMedia": [
+        {
+          "@type": "Photograph",
+          "@id": "urn:uuid:7e001f3c-09f1-49cf-9c7c-a963e4b96895",
+          "name": "Mr P.E.Walshe at his potters wheel",
+          "description": "Second World War R.A.F. and P.O.W. veteran Mr P.E. Walsh working at his potters wheel."
+        },
+        {
+          "@type": "Photograph",
+          "@id": "urn:uuid:17d3dac0-0fcf-4af7-b4cb-cfb3ca19ae60",
+          "name": "Three girls at Tuesday sports event",
+          "description": "Three students on the winners podium with sport field in the background.  Left to right: C. Byers, G. Wilson & L. Whitwell."
+        },
+        {
+          "@type": "Photograph",
+          "@id": "urn:uuid:37e6fe82-3df4-4bb4-a3b6-16ce100e5c19",
+          "name": "Rugby game underway",
+          "description": "Rugby game underway."
+        },
+        {
+          "@type": "Photograph",
+          "@id": "urn:uuid:62b9b9ce-5943-49b8-84c2-d3ea7eae9fed",
+          "name": "View from Wharf Street",
+          "description": "From the Feature Page, shows the Bank of New Zealand next to a residential house with the harbour and Matapihi bridge in the background."
+        },
+        {
+          "@type": "Photograph",
+          "@id": "urn:uuid:75edc041-740a-428b-9b84-83068e1153c9",
+          "name": "Miss Phil Dumbleton",
+          "description": "Miss Phil Dumbleton and her dog Blue on the estuary.  Part of a photo shoot that included many other images and originally described as lady + dog + boat.  Housed within an Extras Feb 82 box.  An image from the same occasion was published in the Bay of Plenty Times on February 13, 1982 and again on February 21, 2007 as part of a Memories feature."
+        },
+        {
+          "@type": "Article",
+          "@id": "urn:uuid:76dfb34d-66aa-416e-b07c-011f6a740c86",
+          "name": "Tauranga Girls College Sports",
+          "description": "Students L. Leonard, D. OSullivan & B. Leach with a koala bear mascot, amidst a crowd of students in sunhats."
+        },
+        {
+          "@type": "Photograph",
+          "@id": "urn:uuid:423be564-9d90-4cda-8b9a-479c55c92aaf",
+          "name": "Springbok Rugby Game",
+          "description": "Depicts a barb wired line, heavily policed rugby field in Rotorua, prior to or during the Bay of Plenty vs Springboks game on September 2, 1981.  Note: Part of a photo shoot that included many other images and originally described as Spring Box Rugby and housed within an Extras Sept 81 box."
+        },
+        {
+          "@type": "Photograph",
+          "@id": "urn:uuid:682b8dc3-1c9b-4752-96f4-97545f91be18",
+          "name": "Hui at Huria Marae",
+          "description": "Hare Piahana, chairman of the Tauranga Tribal Committee addressing a gathering of Bay of Plenty and Waikato guests at Huria Marae.  Seated at centre is Turi Te Kani."
+        },
+        {
+          "@type": "Photograph",
+          "@id": "urn:uuid:832e4dcc-f6cb-4a3f-89e8-a39dd2c9a40f",
+          "name": "J.B. Aitken Shark Catch",
+          "description": "Joan Aitken standing next to a caught shark and an unidentified man with details on a boards as follows: Joan Aitcken, Date: 19th March, Fish: Thresher, Weight: 648, Launch: Rarangi."
+        },
+        {
+          "@type": "Photograph",
+          "@id": "urn:uuid:6768a300-84be-4156-b52b-67cd8e62e61b",
+          "name": "Cherub Class Yachts",
+          "description": "Several young people in yachts racing against the backdrop of the Matapihi rail bridge."
+        },
+        {
+          "@type": "Photograph",
+          "@id": "urn:uuid:28358cac-93cd-42df-99ad-3d73d9f53416",
+          "name": "Flight Lieutenant H.K. Griffiths with Mayor of Tauranga Mr D.S. Mitchell",
+          "description": "Flight Lieutenant H.K. Griffiths, Royal New Zealand Air Force Public Relations Officer, presenting the Mayor of Tauranga Mr D.S. Mitchell with a photograph of three Harvard aircraft.  The same type of aircraft took part in an aerobatic display over Tauranga on Thursday, March 23, 1961 in the late afternoon."
+        },
+        {
+          "@type": "Photograph",
+          "@id": "urn:uuid:143506e2-4c68-43cf-870c-355c4100d29e",
+          "name": "Bogged Logging Truck",
+          "description": "An Andersens Transport truck on the beach getting hitched to a sand bogged second truck loaded with logs.  Behind them is a barge loaded with logs and the Tauranga Harbour."
+        },
+        {
+          "@type": "Photograph",
+          "@id": "urn:uuid:586665b5-538e-4e9c-8e93-35dc4f33618e",
+          "name": "Thailand Charge dAffaires",
+          "description": "Thailand Charge dAffaires and his wife with Mayor of Tauranga Mr.D. Mitchell."
+        },
+        {
+          "@type": "Photograph",
+          "@id": "urn:uuid:19018543-5613-4be2-ae07-1610b2eb8d5e",
+          "name": "Tauriko Sports Day",
+          "description": "Two boys having a pillow fight on a greased, wooden pole."
+        }
+      ]
+    }
+  ]
+}
